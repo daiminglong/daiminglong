@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daiminglong
-- 👀 I’m interested in networking & distributed system
-- 🌱 I’m currently learning NFV 
+- 👀 I’m interested in network virtualization & distributed system.
+- 🌱 I’m currently working on Tencent NGW proj(Virtual Private Network Gateway) 
 - 💞️ I’m looking to collaborate on network development(network protocol, Multiplexing I/O, dpdk app...)
 - 📫 How to reach me, wechat(daiRisesun), email:daiminglong94@gmail.com
 
